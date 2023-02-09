@@ -1,13 +1,13 @@
-# Microservices FIAP
+ # Microservices FIAP
 
 ## Apresentações
 
 #### _Quem sou eu?_
-> *Antonio Carlos de Lima Júnior (AC)*
-> Bacharel em Ciencia da Computação, MBA em Gestão de Negócios, Especialização em Estatística Aplicada e MBA em Digital Business (em andamento)
-> 29 anos em TI, atualmente Machine Learning Engineer na Engineering Brasil, Arquiteto Java
-> ac@marketmining.com.br / 11 99759-9276
-> [Linkedin](https://www.linkedin.com/in/acnaweb/)
+- Antonio Carlos de Lima Júnior **(AC)**
+- Bacharel em Ciencia da Computação, MBA em Gestão de Negócios, Especialização em Estatística Aplicada e MBA em Digital Business (em andamento)
+- 29 anos em TI, atualmente Machine Learning Engineer na Engineering Brasil, Arquiteto Java
+- profantonio.junior@fiap.com.br / 11 99759-9276
+- [Linkedin](https://www.linkedin.com/in/acnaweb/)
 
 #### _Quem é você?_
 - Nome
@@ -29,25 +29,8 @@
 #### Recursos
 - API Pública - [Via CEP](https://viacep.com.br/)
 - API Client [Postman](https://www.postman.com/)
-- API Server [JSON Server](https://www.npmjs.com/package/json-server)
 - [JSON](https://www.json.org/json-en.html)
 - [JSON Viewer](http://jsonviewer.stack.hu/)
-- Github
-
-#### Próximos passos
-[ ] Criar conta no [Postman](https://www.postman.com/)
-[ ] Criar conta no [Github](https://github.com/)
-[ ] Criar gratuita conta no [AWS](https://aws.amazon.com/pt/)
-[ ] Instalar Windows Subsystem for Linux [WSL](https://www.alura.com.br/videos/windows-subsystem-for-linux-wsl--c238)
-[ ] Instalar gerenciador de Java [SDKMain](https://sdkman.io/install)
-[ ] Instalar Java 11 por [download](https://www.oracle.com/br/java/technologies/javase/jdk11-archive-downloads.html) ou [SDKMain](https://sdkman.io/usage)
-[ ] Instalar gerenciador de NodeJS [NVM](https://github.com/nvm-sh/nvm)
-[ ] Instalar NodeJS mais recente usando o NVM
-[ ] [IntelliJ](https://www.jetbrains.com/pt-br/idea/) ou [STS](https://spring.io/tools)
-[ ] Instalar [Docker](https://www.docker.com/) 
-[ ] Criar repositório do projeto no Github
-[ ] Instalar o Git Client
-[ ] Aprender o básico de [Git](https://www.alura.com.br/artigos/comecando-com-git-aprendendo-versionar)
 
 #### Protocolo HTTP
 - [Protocolo HTTP Overview](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Overview)
@@ -71,8 +54,25 @@ Desenvolver um sistema de e-commerce com produtos, clientes, consultas de endere
 - WebServer - [NodeJS](https://nodejs.org/en/) 
 - Testes Unitários - [JUnit](https://junit.org/junit5/)
 
-#### Cursos Alura
+#### Próximos passos
+[ ] Criar conta no [Postman](https://www.postman.com/)
+[ ] Criar conta no [Github](https://github.com/)
+[ ] Criar gratuita conta no [AWS](https://aws.amazon.com/pt/)
+[ ] Instalar Windows Subsystem for Linux [WSL](https://www.alura.com.br/videos/windows-subsystem-for-linux-wsl--c238)
+[ ] Instalar gerenciador de Java [SDKMain](https://sdkman.io/install)
+[ ] Instalar Java 11 por [download](https://www.oracle.com/br/java/technologies/javase/jdk11-archive-downloads.html) ou [SDKMain](https://sdkman.io/usage)
+[ ] Instalar gerenciador de NodeJS [NVM](https://github.com/nvm-sh/nvm)
+[ ] Instalar NodeJS mais recente usando o NVM
+[ ] Instalar [JSON Server](https://www.npmjs.com/package/json-server)
+[ ] [IntelliJ](https://www.jetbrains.com/pt-br/idea/) ou [STS](https://spring.io/tools)
+[ ] Instalar [Docker](https://www.docker.com/) 
+[ ] Criar repositório do projeto no Github
+[ ] Instalar o Git Client
+[ ] Aprender o básico de [Git](https://www.alura.com.br/artigos/comecando-com-git-aprendendo-versionar)
+[ ] Atualizar cursos na Alura
+[ ] Definir a modelagem do projeto 
 
+#### Cursos Alura
 
 #### Links úteis
 - [Spring Initializr](https://start.spring.io/)
