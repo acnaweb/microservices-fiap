@@ -1,5 +1,4 @@
 # Microservices FIAP
-----
 ## _Apresentações_
 
 #### Quem sou eu?
@@ -15,7 +14,7 @@
 - Objetivos com relação ao curso
 - Objetivos com relação a disciplina
 - Qual seu momento em relação a estágio ou trabalho?
-----
+
 ## Microservice and Web Engineering
 
 ### API RESTful
@@ -26,9 +25,9 @@
 
 ### Microserviços
 - [Arquitetura de Microserviços](https://microservices.io/)
-### 
+### Design Patterns
 
-- Design Patterns
+
 - Ambiente de execução
 
 #### Recursos
@@ -51,6 +50,7 @@ Desenvolver um sistema de e-commerce com produtos, clientes, consultas de endere
 
 - Java 11 
 - [Spring Framework](https://spring.io/)
+- [Spring Initializer]
 - RDBMS - H2 (dev) e Oracle (prd)
 - Design Patterns - Command, Builder, Factory
 - Mensageria - Kafka
@@ -62,9 +62,12 @@ Desenvolver um sistema de e-commerce com produtos, clientes, consultas de endere
 - WebServer - [NodeJS](https://nodejs.org/en/) 
 - Testes Unitários - [JUnit](https://junit.org/junit5/)
 
+#### Cursos Alura
+
 
 #### Links úteis
 
 - [API Rest](https://blog.betrybe.com/desenvolvimento-web/api-rest-tudo-sobre/)
-
+- [eBooks](https://www.kdnuggets.com/2015/09/free-data-science-books.html)
+- 
 
