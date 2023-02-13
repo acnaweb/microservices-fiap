@@ -55,10 +55,15 @@ Desenvolver um sistema de e-commerce com produtos, clientes, consultas de endere
 - Testes Unitários - [JUnit](https://junit.org/junit5/)
 
 #### Próximos passos
-- [ ] Criar conta no [Postman](https://www.postman.com/)
-- [ ] Criar conta no [Github](https://github.com/)
-- [ ] Criar gratuita conta no [AWS](https://aws.amazon.com/pt/)
-- [ ] Instalar Windows Subsystem for Linux [WSL](https://www.alura.com.br/videos/windows-subsystem-for-linux-wsl--c238)
+- [ ] Criar conta no Postman
+ - [Postman](https://www.postman.com/)
+- [ ] Criar conta no Github 
+ - [Github](https://github.com/)
+- [ ] Criar gratuita conta no AWS
+ - [AWS](https://aws.amazon.com/pt/)
+- [ ] Instalar Windows Subsystem for Linux 
+ - [WSL](https://www.alura.com.br/videos/windows-subsystem-for-linux-wsl--c238)
+ - [WSL 2 - A solução para rodar Linux dentro do Windows 10](https://www.youtube.com/watch?v=hd6lxt5iVsg)
 - [ ] Instalar gerenciador de Java [SDKMain](https://sdkman.io/install)
 - [ ] Instalar Java 11 por [download](https://www.oracle.com/br/java/technologies/javase/jdk11-archive-downloads.html) ou [SDKMain](https://sdkman.io/usage)
 - [ ] Instalar gerenciador de NodeJS [NVM](https://github.com/nvm-sh/nvm)
