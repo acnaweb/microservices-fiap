@@ -83,5 +83,8 @@ Desenvolver um sistema de e-commerce com produtos, clientes, consultas de endere
 - [Spring Initializr](https://start.spring.io/)
 - [API Rest](https://blog.betrybe.com/desenvolvimento-web/api-rest-tudo-sobre/)
 - [eBooks](https://www.kdnuggets.com/2015/09/free-data-science-books.html)
-- 
+
+#### A adicionar
+[Sprint Tools For Visual Code](https://marketplace.visualstudio.com/items?itemName=vmware.vscode-boot-dev-pack)
+
 
