@@ -62,6 +62,7 @@ Desenvolver um sistema de e-commerce com produtos, clientes, consultas de endere
 - [ ] Criar gratuita conta no AWS
  - [AWS](https://aws.amazon.com/pt/)
 - [ ] Instalar Windows Subsystem for Linux 
+ - > wsl --install -d ubuntu
  - [Alura - Windows Subsystem for Linux (WSL)](https://www.alura.com.br/videos/windows-subsystem-for-linux-wsl--c238)
  - [WSL 2 - A solução para rodar Linux dentro do Windows 10 (vídeo)](https://www.youtube.com/watch?v=hd6lxt5iVsg)
 - [ ] Instalar gerenciador de Java [SDKMain](https://sdkman.io/install)
