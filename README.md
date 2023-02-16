@@ -79,17 +79,17 @@ Desenvolver um sistema de e-commerce com produtos, clientes, consultas de endere
 
 #### Cursos Alura
 
-(https://cursos.alura.com.br/course/jdbc-dao-persistencia)
-(https://cursos.alura.com.br/course/java-jpa-consultas-avancadas-performance-modelos-complexos)
-(https://cursos.alura.com.br/course/servlets-fundamentos-programacao-web-java)
-(https://cursos.alura.com.br/course/servlet-autenticacao-autorizacao-mvc)
-(https://cursos.alura.com.br/course/microsservicos-padroes-projeto)
-(https://cursos.alura.com.br/course/fundamentos-microsservicos-aprofundando-conceitos)
-(https://cursos.alura.com.br/course/microsservicos-implementando-java-spring)
-(https://cursos.alura.com.br/course/spring-boot-3-desenvolva-api-rest-java)
-(https://cursos.alura.com.br/course/spring-boot-aplique-boas-praticas-proteja-api-rest)
-(https://cursos.alura.com.br/course/microservices-spring-cloud-service-registry-config-server)
-(https://cursos.alura.com.br/course/microsservicos-pratica-iac-cdk-deploy-aws)
+- (https://cursos.alura.com.br/course/jdbc-dao-persistencia)
+- (https://cursos.alura.com.br/course/java-jpa-consultas-avancadas-performance-modelos-complexos)
+- (https://cursos.alura.com.br/course/servlets-fundamentos-programacao-web-java)
+- (https://cursos.alura.com.br/course/servlet-autenticacao-autorizacao-mvc)
+- (https://cursos.alura.com.br/course/microsservicos-padroes-projeto)
+- (https://cursos.alura.com.br/course/fundamentos-microsservicos-aprofundando-conceitos)
+- (https://cursos.alura.com.br/course/microsservicos-implementando-java-spring)
+- (https://cursos.alura.com.br/course/spring-boot-3-desenvolva-api-rest-java)
+- (https://cursos.alura.com.br/course/spring-boot-aplique-boas-praticas-proteja-api-rest)
+- (https://cursos.alura.com.br/course/microservices-spring-cloud-service-registry-config-server)
+- (https://cursos.alura.com.br/course/microsservicos-pratica-iac-cdk-deploy-aws)
 
 #### Links úteis
 - [Spring Initializr](https://start.spring.io/)
