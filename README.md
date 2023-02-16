@@ -68,7 +68,7 @@ Desenvolver um sistema de e-commerce com produtos, clientes, consultas de endere
 - [ ] Instalar gerenciador de Java [SDKMain](https://sdkman.io/install)
 - [ ] Instalar Java 11 por [download](https://www.oracle.com/br/java/technologies/javase/jdk11-archive-downloads.html) ou [SDKMain](https://sdkman.io/usage)
 - [ ] Instalar gerenciador de NodeJS [NVM](https://github.com/nvm-sh/nvm)
-- [ ] Instalar NodeJS mais recente usando o NVM
+- [ ] Instalar [NodeJS](https://nodejs.org/en/download/) 
 - [ ] Instalar [JSON Server](https://www.npmjs.com/package/json-server)
 - [ ] [IntelliJ](https://www.jetbrains.com/pt-br/idea/) ou [STS](https://spring.io/tools)
 - [ ] Instalar [Docker](https://www.docker.com/) 
