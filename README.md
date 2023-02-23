@@ -40,6 +40,7 @@ __23/02__
 - [ ] Criar conta no Github 
  - [Github](https://github.com/)
  - Aprender o básico de [Git](https://www.alura.com.br/artigos/comecando-com-git-aprendendo-versionar)
+- [ ] Projeto study-java
 - [ ] Projeto study-api-rest
 - [Spring Framework](https://spring.io/)
 
