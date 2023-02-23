@@ -36,7 +36,7 @@ __16/02__
 - [X] [JSON Server](https://www.npmjs.com/package/json-server)
 
 __23/02__
-
+- [Portas HTTP] (https://pt.wikipedia.org/wiki/Lista_de_portas_dos_protocolos_TCP_e_UDP)
 - [ ] Criar conta no Github 
  - [Github](https://github.com/)
  - Aprender o básico de [Git](https://www.alura.com.br/artigos/comecando-com-git-aprendendo-versionar)
