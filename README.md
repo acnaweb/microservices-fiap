@@ -24,24 +24,68 @@
     - URN (Uniform Resource Name) - Ex: nome de uma pessoa
 
 ### Microserviços
-- [Arquitetura de Microserviços](https://microservices.io/)
+-----
+__09/02__
+- [x] Criar conta no Postman
+- [Postman](https://www.postman.com/)
+- [x] Client API com Postman
 
-#### Recursos
 - API Pública - [Via CEP](https://viacep.com.br/)
-- API Client [Postman](https://www.postman.com/)
 - [JSON](https://www.json.org/json-en.html)
 - [JSON Viewer](http://jsonviewer.stack.hu/)
 
-#### Protocolo HTTP
+__16/02__
+- API Client [Postman](https://www.postman.com/)
+- [X] HTTP 
 - [Protocolo HTTP Overview](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Overview)
+- [X] NodeJS [NVM](https://github.com/nvm-sh/nvm)
+- [X] [NodeJS](https://nodejs.org/en/download/) 
+- [X] [JSON Server](https://www.npmjs.com/package/json-server)
+
+__23/02__
+
+#### Protocolo HTTP
+- [ ] Criar conta no Github 
+ - [Github](https://github.com/)
+ - Aprender o básico de [Git](https://www.alura.com.br/artigos/comecando-com-git-aprendendo-versionar)
+ 
+- [ ] Projeto study-mvc
+- [Spring Framework](https://spring.io/)
+
+- [ ] HTTP 
 - [Métodos HTTP](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Methods)
 - [Status HTTP](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status)
+
+
+
+
+- [Arquitetura de Microserviços](https://microservices.io/)
+
+#### Próximos passos
+
+- [ ] Criar gratuita conta no AWS
+ - [AWS](https://aws.amazon.com/pt/)
+- [ ] Instalar Windows Subsystem for Linux 
+ - > wsl --install -d ubuntu
+ - [Alura - Windows Subsystem for Linux (WSL)](https://www.alura.com.br/videos/windows-subsystem-for-linux-wsl--c238)
+ - [WSL 2 - A solução para rodar Linux dentro do Windows 10 (vídeo)](https://www.youtube.com/watch?v=hd6lxt5iVsg)
+- [ ] Instalar gerenciador de Java [SDKMain](https://sdkman.io/install)
+- [ ] Instalar Java 11 por [download](https://www.oracle.com/br/java/technologies/javase/jdk11-archive-downloads.html) ou [SDKMain](https://sdkman.io/usage)
+
+- [ ] [IntelliJ](https://www.jetbrains.com/pt-br/idea/) ou [STS](https://spring.io/tools)
+- [ ] Instalar [Docker](https://www.docker.com/) 
+- [ ] Criar repositório do projeto no Github
+- [ ] Instalar o [Git Client](https://www.alura.com.br/conteudo/git-github-controle-de-versao--amp)
+- [ ] Atualizar cursos na Alura
+- [ ] Definir a modelagem (C4 Model) do projeto 
+
+
 
 #### O Projeto
 Desenvolver um sistema de e-commerce com produtos, clientes, consultas de endereço por CEP e pedidos, realizando notificações por email.
 
 - Java 11 
-- [Spring Framework](https://spring.io/)
+
 - [Spring Initializer]
 - RDBMS - H2 (dev) e Oracle (prd)
 - Design Patterns - Command, Builder, Factory
@@ -53,30 +97,6 @@ Desenvolver um sistema de e-commerce com produtos, clientes, consultas de endere
 - Frontend SPA - [React](https://reactjs.org/)
 - WebServer - [NodeJS](https://nodejs.org/en/) 
 - Testes Unitários - [JUnit](https://junit.org/junit5/)
-
-#### Próximos passos
-- [ ] Criar conta no Postman
- - [Postman](https://www.postman.com/)
-- [ ] Criar conta no Github 
- - [Github](https://github.com/)
-- [ ] Criar gratuita conta no AWS
- - [AWS](https://aws.amazon.com/pt/)
-- [ ] Instalar Windows Subsystem for Linux 
- - > wsl --install -d ubuntu
- - [Alura - Windows Subsystem for Linux (WSL)](https://www.alura.com.br/videos/windows-subsystem-for-linux-wsl--c238)
- - [WSL 2 - A solução para rodar Linux dentro do Windows 10 (vídeo)](https://www.youtube.com/watch?v=hd6lxt5iVsg)
-- [ ] Instalar gerenciador de Java [SDKMain](https://sdkman.io/install)
-- [ ] Instalar Java 11 por [download](https://www.oracle.com/br/java/technologies/javase/jdk11-archive-downloads.html) ou [SDKMain](https://sdkman.io/usage)
-- [ ] Instalar gerenciador de NodeJS [NVM](https://github.com/nvm-sh/nvm)
-- [ ] Instalar [NodeJS](https://nodejs.org/en/download/) 
-- [ ] Instalar [JSON Server](https://www.npmjs.com/package/json-server)
-- [ ] [IntelliJ](https://www.jetbrains.com/pt-br/idea/) ou [STS](https://spring.io/tools)
-- [ ] Instalar [Docker](https://www.docker.com/) 
-- [ ] Criar repositório do projeto no Github
-- [ ] Instalar o [Git Client](https://www.alura.com.br/conteudo/git-github-controle-de-versao--amp)
-- [ ] Aprender o básico de [Git](https://www.alura.com.br/artigos/comecando-com-git-aprendendo-versionar)
-- [ ] Atualizar cursos na Alura
-- [ ] Definir a modelagem (C4 Model) do projeto 
 
 #### Cursos Alura
 
