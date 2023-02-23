@@ -17,24 +17,17 @@
 
 ## Microservice and Web Engineering
 
-### API RESTful
-- [Definição](https://www.proquest.com/openview/fc2d064044b971dda476dfb429a2b344/1?pq-origsite=gscholar&cbl=18750&diss=y)
-- URI (Uniform Resource Identifier)
-    - URL (Uniform Resource Locator) - esquema ou protocolo://domínio:porta/path/resource?query_string
-    - URN (Uniform Resource Name) - Ex: nome de uma pessoa
-
-### Microserviços
------
 __09/02__
+
 - [x] Criar conta no Postman
 - [Postman](https://www.postman.com/)
 - [x] Client API com Postman
-
-- API Pública - [Via CEP](https://viacep.com.br/)
+ - API Pública - [Via CEP](https://viacep.com.br/)
 - [JSON](https://www.json.org/json-en.html)
 - [JSON Viewer](http://jsonviewer.stack.hu/)
 
 __16/02__
+
 - API Client [Postman](https://www.postman.com/)
 - [X] HTTP 
 - [Protocolo HTTP Overview](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Overview)
@@ -44,25 +37,29 @@ __16/02__
 
 __23/02__
 
-#### Protocolo HTTP
 - [ ] Criar conta no Github 
  - [Github](https://github.com/)
  - Aprender o básico de [Git](https://www.alura.com.br/artigos/comecando-com-git-aprendendo-versionar)
- 
-- [ ] Projeto study-mvc
+- [ ] Projeto study-api-rest
 - [Spring Framework](https://spring.io/)
 
 - [ ] HTTP 
 - [Métodos HTTP](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Methods)
 - [Status HTTP](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status)
 
+__30/02__
+
+- [ ] API RESTful
+- [Definição](https://www.proquest.com/openview/fc2d064044b971dda476dfb429a2b344/1?pq-origsite=gscholar&cbl=18750&diss=y)
+- URI (Uniform Resource Identifier)
+    - URL (Uniform Resource Locator) - esquema ou protocolo://domínio:porta/path/resource?query_string
+    - URN (Uniform Resource Name) - Ex: nome de uma pessoa
 
 
-
-- [Arquitetura de Microserviços](https://microservices.io/)
 
 #### Próximos passos
 
+- [Arquitetura de Microserviços](https://microservices.io/)
 - [ ] Criar gratuita conta no AWS
  - [AWS](https://aws.amazon.com/pt/)
 - [ ] Instalar Windows Subsystem for Linux 
@@ -78,8 +75,6 @@ __23/02__
 - [ ] Instalar o [Git Client](https://www.alura.com.br/conteudo/git-github-controle-de-versao--amp)
 - [ ] Atualizar cursos na Alura
 - [ ] Definir a modelagem (C4 Model) do projeto 
-
-
 
 #### O Projeto
 Desenvolver um sistema de e-commerce com produtos, clientes, consultas de endereço por CEP e pedidos, realizando notificações por email.
