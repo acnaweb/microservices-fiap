@@ -1,6 +1,17 @@
 ## Microservice and Web Engineering
 
-[Apresentações - Quem sou eu? Quem é você?](/apresentacao.md)
+#### [Apresentações - Quem sou eu? Quem é você?](/apresentacao.md)
+
+----
+
+#### Projetos
+
+| Repositórios | 
+|----|
+| [Repositório de conteúdos e acompanhemnto de aulas](https://github.com/acnaweb/microservices-fiap) |
+| [Projeto de Estudo de Java](https://github.com/acnaweb/study-java-fiap-2023) |
+
+----
 
 #### Aulas
 
@@ -23,12 +34,15 @@ __16/02__
 - [X] [JSON Server](https://www.npmjs.com/package/json-server)
 
 __23/02__
-- [Links da aula](/20232302.md)
+
 - [Portas HTTP] (https://pt.wikipedia.org/wiki/Lista_de_portas_dos_protocolos_TCP_e_UDP)
-- [ ] Criar conta no Github 
+- [x] Criar conta no Github 
  - [Github](https://github.com/)
  - Aprender o básico de [Git](https://www.alura.com.br/artigos/comecando-com-git-aprendendo-versionar)
-- [ ] Projeto study-java
+- [x] Projeto study-java
+- [Links apresentados na aula](/20232302.md)
+
+__30/02__
 - [ ] Projeto study-api-rest
 - [Spring Framework](https://spring.io/)
 
@@ -36,15 +50,11 @@ __23/02__
 - [Métodos HTTP](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Methods)
 - [Status HTTP](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status)
 
-__30/02__
-
 - [ ] API RESTful
 - [Definição](https://www.proquest.com/openview/fc2d064044b971dda476dfb429a2b344/1?pq-origsite=gscholar&cbl=18750&diss=y)
 - URI (Uniform Resource Identifier)
     - URL (Uniform Resource Locator) - esquema ou protocolo://domínio:porta/path/resource?query_string
     - URN (Uniform Resource Name) - Ex: nome de uma pessoa
-
-
 
 #### Próximos passos
 
@@ -57,7 +67,7 @@ __30/02__
  - [WSL 2 - A solução para rodar Linux dentro do Windows 10 (vídeo)](https://www.youtube.com/watch?v=hd6lxt5iVsg)
 - [ ] Instalar gerenciador de Java [SDKMain](https://sdkman.io/install)
 - [ ] Instalar Java 11 por [download](https://www.oracle.com/br/java/technologies/javase/jdk11-archive-downloads.html) ou [SDKMain](https://sdkman.io/usage)
-
+- [ ] [Sprint Tools For Visual Code](https://marketplace.visualstudio.com/items?itemName=vmware.vscode-boot-dev-pack)
 - [ ] [IntelliJ](https://www.jetbrains.com/pt-br/idea/) ou [STS](https://spring.io/tools)
 - [ ] Instalar [Docker](https://www.docker.com/) 
 - [ ] Criar repositório do projeto no Github
@@ -69,7 +79,6 @@ __30/02__
 Desenvolver um sistema de e-commerce com produtos, clientes, consultas de endereço por CEP e pedidos, realizando notificações por email.
 
 - Java 11 
-
 - [Spring Initializer]
 - RDBMS - H2 (dev) e Oracle (prd)
 - Design Patterns - Command, Builder, Factory
@@ -101,7 +110,6 @@ Desenvolver um sistema de e-commerce com produtos, clientes, consultas de endere
 - [API Rest](https://blog.betrybe.com/desenvolvimento-web/api-rest-tudo-sobre/)
 - [eBooks](https://www.kdnuggets.com/2015/09/free-data-science-books.html)
 
-#### A adicionar
-[Sprint Tools For Visual Code](https://marketplace.visualstudio.com/items?itemName=vmware.vscode-boot-dev-pack)
+
 
 
