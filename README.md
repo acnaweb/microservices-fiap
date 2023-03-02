@@ -42,7 +42,7 @@ __23/02__
 - [x] Projeto study-java
 - [Links apresentados na aula](/20232302.md)
 
-__30/02__
+__02/03__
 - [ ] Projeto study-api-rest
 - [Spring Framework](https://spring.io/)
 
