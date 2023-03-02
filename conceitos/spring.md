@@ -12,7 +12,8 @@
 | @Repository | Classes de acesso a banco de dados | 
 | @Autowired | Injeção de variável anotada | 
 
-| Anotação MVC | Objetivo |
+
+| Anotação MVC (request) | Objetivo |
 | ----- | ----- |
 | @Controller | Classes de recursos que fornecem endpoints| 
 | @RequestMapping | Mapear URLs de acesso ao controller e aos métodos| 
@@ -20,6 +21,10 @@
 | @RequestParam | Capturar um parâmetro de consulta (query param) GET | 
 | @ModelAttribute | Usado como variável de retorno de métodos | 
 | @Valid | Validação de dados de objetos em parâmetros | 
+
+|  MVC (response) | Objetivo |
+| ----- | ----- |
+| ModelMap | Enviar dados a página como resposta | 
 
 
 [Spring Initialzr]: <https://start.spring.io/>
