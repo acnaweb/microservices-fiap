@@ -18,7 +18,7 @@
 | @RequestMapping | Mapear URLs de acesso ao controller e aos métodos| 
 | @PathVariable | Extrair da URL um parâmetro incluído como path da URL | 
 | @RequestParam | Capturar um parâmetro de consulta (query param) GET | 
-| @ModelAttribute | Capturar um parâmetro de consulta (query param) GET | 
+| @ModelAttribute | Usado como variável de retorno de métodos | 
 
 
 [Spring Initialzr]: <https://start.spring.io/>
