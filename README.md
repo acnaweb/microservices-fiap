@@ -44,8 +44,8 @@ __23/02__
 
 __02/03__
 
-[MVC](/mvc.md)
-[Spring](/spring.md)
+- [MVC](/mvc.md)
+- [Spring](/spring.md)
 
 
 #### Próximos passos
