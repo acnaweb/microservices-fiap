@@ -43,13 +43,12 @@ __23/02__
 - [Links apresentados na aula](/aulas/20232302.md)
 
 __02/03__
-
-- [MVC](/conceitos/mvc.md)
 - [Spring](/conceitos/spring.md)
 - [Maven](/conceitos/maven.md)
 
-
 #### Próximos passos
+
+- [MVC](/conceitos/mvc.md)
 
 - [ ] Projeto study-api-rest
 - [Spring Framework](https://spring.io/)
