@@ -43,6 +43,13 @@ __23/02__
 - [Links apresentados na aula](/20232302.md)
 
 __02/03__
+
+[MVC](/mvc.md)
+[Spring](/spring.md)
+
+
+#### Próximos passos
+
 - [ ] Projeto study-api-rest
 - [Spring Framework](https://spring.io/)
 
@@ -55,8 +62,6 @@ __02/03__
 - URI (Uniform Resource Identifier)
     - URL (Uniform Resource Locator) - esquema ou protocolo://domínio:porta/path/resource?query_string
     - URN (Uniform Resource Name) - Ex: nome de uma pessoa
-
-#### Próximos passos
 
 - [Arquitetura de Microserviços](https://microservices.io/)
 - [ ] Criar gratuita conta no AWS
