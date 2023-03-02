@@ -40,12 +40,12 @@ __23/02__
  - [Github](https://github.com/)
  - Aprender o básico de [Git](https://www.alura.com.br/artigos/comecando-com-git-aprendendo-versionar)
 - [x] Projeto study-java
-- [Links apresentados na aula](/20232302.md)
+- [Links apresentados na aula](/aulas/20232302.md)
 
 __02/03__
 
-- [MVC](/mvc.md)
-- [Spring](/spring.md)
+- [MVC](/conceitos/mvc.md)
+- [Spring](/conceitos/spring.md)
 
 
 #### Próximos passos
