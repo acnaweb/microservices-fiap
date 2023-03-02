@@ -19,6 +19,7 @@
 | @PathVariable | Extrair da URL um parâmetro incluído como path da URL | 
 | @RequestParam | Capturar um parâmetro de consulta (query param) GET | 
 | @ModelAttribute | Usado como variável de retorno de métodos | 
+| @Valid | Validação de dados de objetos em parâmetros | 
 
 
 [Spring Initialzr]: <https://start.spring.io/>
