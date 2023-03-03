@@ -45,6 +45,7 @@ __23/02__
 __02/03__
 - [Spring](/conceitos/spring.md)
 - [Maven](/conceitos/maven.md)
+- [12Factors](https://github.com/acnaweb/12factors)
 
 #### Próximos passos
 
