@@ -10,6 +10,8 @@
 |----|
 | [Repositório de conteúdos e acompanhemnto de aulas](https://github.com/acnaweb/microservices-fiap) |
 | [Projeto de Estudo de Java](https://github.com/acnaweb/study-java-fiap-2023) |
+| [Projeto de Estudo de API com Spring](https://github.com/acnaweb/study-api) |
+
 
 ----
 
