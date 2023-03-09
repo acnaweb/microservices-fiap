@@ -49,6 +49,11 @@ __02/03__
 - [Maven](/conceitos/maven.md)
 - [12Factors](https://github.com/acnaweb/12factors)
 
+
+__09/03__
+- [Spring Boot Data SQL and Schema](https://www.baeldung.com/spring-boot-data-sql-and-schema-sql)
+- [Sprint OpenAPI docs](https://www.baeldung.com/spring-rest-openapi-documentation)
+
 #### Próximos passos
 
 - [MVC](/conceitos/mvc.md)
