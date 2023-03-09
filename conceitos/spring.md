@@ -25,6 +25,17 @@
 | @ModelAttribute | Usado como variável de retorno de métodos | 
 | @Valid | Validação de dados de objetos em parâmetros | 
 
+#### Spring Data
+
+- [Spring Boot com H2](https://www.baeldung.com/spring-boot-h2-database)
+- [Spring Boot Data SQL and Schema](https://www.baeldung.com/spring-boot-data-sql-and-schema-sql)
+
+
+#### Spring Data
+
+- [Spring OpenAPI docs](https://www.baeldung.com/spring-rest-openapi-documentation)
+- [Spring Profiles](https://docs.spring.io/spring-boot/docs/1.2.0.M1/reference/html/boot-features-profiles.html)
+
 
 [Spring Initialzr]: <https://start.spring.io/>
 [Documentação de Spring]: <https://docs.spring.io/spring-framework/docs/current/reference/html/>

@@ -51,9 +51,8 @@ __02/03__
 
 
 __09/03__
-- [Spring Boot com H2](https://www.baeldung.com/spring-boot-h2-database)
-- [Spring Boot Data SQL and Schema](https://www.baeldung.com/spring-boot-data-sql-and-schema-sql)
-- [Sprint OpenAPI docs](https://www.baeldung.com/spring-rest-openapi-documentation)
+- [Spring](/conceitos/spring.md)
+
 
 #### Próximos passos
 
