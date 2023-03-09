@@ -52,6 +52,7 @@ __02/03__
 
 __09/03__
 - [Spring](/conceitos/spring.md)
+- [Design Patterns](https://www.tutorialspoint.com/design_pattern/index.htm)
 
 
 #### Próximos passos
