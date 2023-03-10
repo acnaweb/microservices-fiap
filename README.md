@@ -120,6 +120,10 @@ Desenvolver um sistema de e-commerce com produtos, clientes, consultas de endere
 - (https://cursos.alura.com.br/course/microservices-spring-cloud-service-registry-config-server)
 - (https://cursos.alura.com.br/course/microsservicos-pratica-iac-cdk-deploy-aws)
 
+
+#### Livros
+- [Spring Boot](https://www.casadocodigo.com.br/products/livro-spring-boot)
+
 #### Links úteis
 - [Spring Initializr](https://start.spring.io/)
 - [API Rest](https://blog.betrybe.com/desenvolvimento-web/api-rest-tudo-sobre/)

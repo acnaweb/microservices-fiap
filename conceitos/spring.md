@@ -12,12 +12,17 @@
 | ----- | ----- |
 | @Component | Qualquer tipo de bean gerenciado pelo Spring| 
 | @Service | Classes com regras de negócio | 
-| @Repository | Classes de acesso a banco de dados | 
 | @Autowired | Injeção de variável anotada | 
 
+| Anotação (Data) | Objetivo |
+| ----- | ----- |
+| @Entity | Identifica a classe como mapeamento de tabela no BD| 
+| @Id | Identifica o atributo que representa a coluna para PK na tabela | 
+| @Repository | Classes de acesso a banco de dados | 
 
 | Anotação MVC (request) | Objetivo |
 | ----- | ----- |
+| @RestController | Classes de recursos que fornecem endpoints| 
 | @Controller | Classes de recursos que fornecem endpoints| 
 | @RequestMapping | Mapear URLs de acesso ao controller e aos métodos| 
 | @PathVariable | Extrair da URL um parâmetro incluído como path da URL | 
@@ -31,7 +36,7 @@
 - [Spring Boot Data SQL and Schema](https://www.baeldung.com/spring-boot-data-sql-and-schema-sql)
 
 
-#### Spring Data
+#### Spring
 
 - [Spring OpenAPI docs](https://www.baeldung.com/spring-rest-openapi-documentation)
 - [Spring Profiles](https://docs.spring.io/spring-boot/docs/1.2.0.M1/reference/html/boot-features-profiles.html)
