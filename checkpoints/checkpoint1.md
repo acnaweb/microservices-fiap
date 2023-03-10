@@ -1,20 +1,19 @@
 # Microservice and Web Engineering - 3SI/23
-## Check Point 1/1º semestre – 
-## Prof. Antonio Carlos de Lima Júnior
 
-----
+## Check Point 1/1º semestre - Prof. Antonio Carlos de Lima Júnior
 
 ### Instruções
 
-- Prazo de entrega: 16/03.
-- O checkpoint deverá ser desenvolvido em 1 ou 2 pessoas.
-- Cada membro deve ser o projeto em seu próprio repositório até a data de entrega.
-- A entrege deverá ser realizada por um upload de um arquivo TXT na plataforma FIAP, área de upload de arquivos para o Checkpoint.
+- Prazo de entrega: __16/03__
+- O checkpoint deverá ser desenvolvido em 1 ou 2 pessoas
+- Github, nome do repositorio para cada membro: __fiap-2023-checkpoint1__
+- Cada membro deve ter o projeto em seu próprio repositório no Github até a data de entrega.
+- A formalização da entrega deverá ser realizada por um upload de um arquivo TXT na plataforma FIAP, área de upload de arquivos para o Checkpoint.
 
-
+> - Pessoa 1 - Maria - https://github.com/maria/fiap-2023-checkpoint1
+> - Pessoa 2 - João - https://github.com/joao/fiap-2023-checkpoint1
 
 ### Conteúdo
-
 
 #### 1. (_1 ponto_) - Criar um projeto Java usando Spring Boot:
 
