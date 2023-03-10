@@ -4,6 +4,18 @@
 
 ----
 
+### Instruções
+
+- Prazo de entrega: 16/03.
+- O checkpoint deverá ser desenvolvido em 1 ou 2 pessoas.
+- Cada membro deve ser o projeto em seu próprio repositório até a data de entrega.
+- A entrege deverá ser realizada por um upload de um arquivo TXT na plataforma FIAP, área de upload de arquivos para o Checkpoint.
+
+
+
+### Conteúdo
+
+
 #### 1. (_1 ponto_) - Criar um projeto Java usando Spring Boot:
 
 - Project: 		Maven Project
@@ -23,7 +35,9 @@ Project Metadata
 #### 2. (_0,5 ponto_) - Inserir dependecias de Spring Web
 #### 3. (_0,5  ponto_) - Inserir dependecias de Spring Data
 #### 4. (_0,5  ponto_) - Inserir dependecias de H2 Database
-#### 5. (_0,5  ponto_) - Criar a classe Empregado e torná-la uma entidade de banco de dados.
+#### 5. (_0,5 ponto_) - Incluir a documentação online do projeto (Swagger/OpenAPI)
+
+#### 5. (_1  ponto_) - Criar a classe Empregado e torná-la uma entidade de banco de dados.
 
 ```
 Empregado:
@@ -33,12 +47,9 @@ Empregado:
 - endereco: String
 ```
 
-#### 6. (_1 ponto_) - Implementar um endpoint POST para incluir Empregado
+#### 6. (_2 pontos_) - Implementar um endpoint POST para incluir Empregado
 
-#### 7. (_1 ponto_) - Implementar um endpoint PUT para alterar Empregado
+#### 7. (_2 pontos_) - Implementar um endpoint PUT para alterar Empregado
 
-#### 8. (_2 pontos_) - Implementar um endpoint DELETE para excluir Empregado
+#### 8. (_2 pontos_) - Implementar um endpoint GET para listar todos os  Empregados
 
-#### 9. (_1 ponto_) - Implementar um endpoint GET para listar todos os  Empregados
-
-#### 10. (_2 pontos_) - Implementar um endpoint GET para pesquisar empregado por codigoEmpregado
